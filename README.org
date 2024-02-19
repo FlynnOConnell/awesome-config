@@ -1,26 +1,12 @@
-#+AUTHOR: Antonin Fischer (raven2cz)
-#+DESCRIPTION: raven2cz's personal AwesomeWM config.
-
-#+BEGIN_EXAMPLE
-██████╗  █████╗ ██╗   ██╗███████╗███╗   ██╗  Antonin Fischer (raven2cz)
-██╔══██╗██╔══██╗██║   ██║██╔════╝████╗  ██║  https://fishlive.org/
-██████╔╝███████║██║   ██║█████╗  ██╔██╗ ██║  https://arch-linux.cz/
-██╔══██╗██╔══██║╚██╗ ██╔╝██╔══╝  ██║╚██╗██║  https://github.com/raven2cz
-██║  ██║██║  ██║ ╚████╔╝ ███████╗██║ ╚████║
-╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚═╝  ╚═══╝
-#+END_EXAMPLE
-
 #+HTML:<div align=center>
 
-* Raven2cz's AwesomeWM Config
+* AwesomeWM Config
 
 [[https://github.com/awesomeWM/awesome][file:https://img.shields.io/badge/AwesomeWM-git-blue.svg?logo=lua]] [[LICENSE][https://img.shields.io/badge/License-MIT-yellow.svg]]
 
 #+HTML:</div>
 
 #+HTML:<a href="https://awesomewm.org/"><img alt="AwesomeWM Logo" height="160" align = "left" src="https://upload.wikimedia.org/wikipedia/commons/0/07/Awesome_logo.svg"></a>
-
-Welcome to my AwesomeWM configuration files! My system is managed by Git Subtrees; this github repository is git subtree which is mapped to the [[https://github.com/raven2cz/dotfiles][raven2cz/dotfiles]] project.
 
 AwesomeWM is a highly configurable by LUA, next generation framework window manager for X. It is very fast, extensible and licensed under the ~GNU GPLv2~ license.
 
